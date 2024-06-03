@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests" thread-count="2">
+	   <classes>
+		
+        <class name="com.TestNG.TestNGExamples"/>
+        
+    </classes>
+	
+</suite>
+	
+	

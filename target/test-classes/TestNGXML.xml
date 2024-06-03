@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="TestSuite">
+  <test name="Test">
+   <groups>
+ <run>
+  <include name="Smoke" >
+   </include>
+   <exclude>
+	   
+   </exclude>
+  </run>
+  </groups>  
+    <classes>
+		
+        <class name="com.TestNG.TestNGExamples"/>
+        
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

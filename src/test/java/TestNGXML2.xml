@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests" thread-count="2">
+	<test name="Test">
+		<classes>
+		
+			<class name="com.selenium.TC07_GetText" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="Test2">
+		<classes>
+		
+			<class name="com.selenium.TC19_scrollUsingJS" />
+			
+		</classes>
+
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
